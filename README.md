@@ -20,4 +20,4 @@ This project is a fun and interactive personality quiz where users answer a seri
 
 This project demonstrates basic front-end development skills, including DOM manipulation and event handling with JavaScript.
 
- https://marthaheredia48.github.io/Oppenheimer-vs.-Barbie-Personality-Quiz/
+https://replit.com/@marthah48/Martha-Personality-Quiz-Starter-Code
