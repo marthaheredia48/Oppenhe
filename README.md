@@ -1,53 +1,21 @@
-# Personality Quiz Starter Code
+# Oppenheimer vs. Barbie Personality Quiz
 
-This is a place for you to start building your personality quiz!
+This project is a fun and interactive personality quiz where users answer a series of questions to determine whether they are more like **Oppenheimer** or **Barbie**. The quiz uses simple HTML, CSS, and JavaScript to create an engaging experience.
 
-### Project Requirements
-Your project should:
-- Have at least three questions.
-- Have at least two answers to each question that correspond to the quiz outcomes.
-- Allow a person to select an answer by clicking a button.
-- Display different outcomes for different combinations of answer selections.
+## Features:
+- **Three Question Quiz**: Users are presented with three questions with two options each, accompanied by images to enhance the visual experience.
+- **Interactive Buttons**: Each option is clickable, with a dynamic scoring system to track user answers.
+- **Real-Time Result**: At the end of the quiz, users are shown whether they are more like Barbie or Oppenheimer based on their choices.
+- **Restart Functionality**: The quiz includes a restart button to allow users to retake the quiz.
 
+## Technologies Used:
+- **HTML5**: For structuring the webpage.
+- **CSS3**: For styling the quiz layout and enhancing the user interface.
+- **JavaScript**: For implementing quiz logic, tracking answers, and displaying results.
 
-### Extensions
-You can extend your project further by:
-- Adding more questions to your quiz.
-- Customizing the look and feel with CSS.
-- Allow a person to restart the quiz by clicking a button.
-- Creating a button to update result instead of having it display unprompted.
-- Disabling buttons after a person selects an answer.
+## How to Use:
+1. Choose your preferred option for each question.
+2. After answering all three questions, see if you are more Oppenheimer or Barbie!
+3. Click "Restart" to try the quiz again.
 
-
-### Image Attributions
-*Tell us where you found the image you are using! Make sure it is in the public domain, has a license that allows you to use it, or is one you took on your own. Check out [archive.org](https://archive.org/), [Pixabay](https://pixabay.com/), [Unsplash](https://unsplash.com/), or [Burst](https://burst.shopify.com/) for free, uncopyrighted images.*
-- [Espresso](https://pixabay.com/photos/coffee-espresso-short-cup-mug-731330/)
-- [Matcha latte](https://pixabay.com/photos/matcha-green-tea-latt%C3%A9-heart-2683990/)
-- [Chocolate Croissant](https://pixabay.com/photos/chocolate-croissant-bakery-hunger-4840779/)
-- [Egg Sammy](https://pixabay.com/photos/bacon-egg-and-cheese-2834906/)
-- [Bed](https://pixabay.com/photos/bed-pillows-headboard-bedroom-2167288/)
-- [Window](https://pixabay.com/photos/window-window-seat-cushions-2227301/)
-
----
-
-## File Overview
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your website does and how you built it. 
-
-### ← index.html
-
-HTML files are for content! Add your text, images, buttons, and more using HTML tags.
-
-### ← style.css
-
-CSS files add styling rules to your content like changing colors and fonts. 
-
-### ← script.js
-
-JavaScript files add interactivity to your website using code. This is where you can listen for events, then take an action.
-
-### ← assets
-
-Drag in assets, like images or music, to add them to your project. You do not need to add anything to this folder unless you are working on the extensions. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg`.
+This project demonstrates basic front-end development skills, including DOM manipulation and event handling with JavaScript.
